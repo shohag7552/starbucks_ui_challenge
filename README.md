@@ -1,3 +1,4 @@
+
 # Flutter Starbucks UI Challenge
 
 Runnable in 
@@ -5,5 +6,5 @@ Runnable in
 
 UI Inspiration: https://dribbble.com/shots/18580900-Coffee-Shop-Mobile-App
 
-
-![WhatsApp Image 2025-04-03 at 7 16 47 PM](https://github.com/shohag7552/starbucks_ui_challenge?tab=readme-ov-file)
+![Simulator Screenshot - iPhone 16 Pro - 2025-04-03 at 13 16 17](https://github.com/user-attachments/assets/22f3ab0b-6140-4bb8-9b3e-7ff31ec4d31b)
+![Simulator Screenshot - iPhone 16 Pro - 2025-04-03 at 13 16 22](https://github.com/user-attachments/assets/6e707276-19ec-485a-9a6a-18951ce65a09)
